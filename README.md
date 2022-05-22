@@ -18,7 +18,7 @@ Project is created with:
 ## Setup
 To run this project, open the file location in the terminal and run npm install && npm start.
 
-![demo](/demo/TimeTrackingApp.gif)
+![demo](/demo/TimeTrackingApp.gif.gif)
 
 ## Status
 Project is:  _finished
