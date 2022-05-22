@@ -23,6 +23,4 @@ To run this project, open the file location in the terminal and run npm install 
 ## Status
 Project is:  _finished
 
-## Live Demo
 
-https://razvan-widgets-2.herokuapp.com/
